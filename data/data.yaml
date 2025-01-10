@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['back', 'breast', 'leg', 'neck', 'wing']
+
+roboflow:
+  workspace: chicken-w9ajo
+  project: chicken-set
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/chicken-w9ajo/chicken-set/dataset/2

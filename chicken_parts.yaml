@@ -1,0 +1,4 @@
+train: C:/Users/mfash/OneDrive/Desktop/new_yolo/data/train/images
+val: C:/Users/mfash/OneDrive/Desktop/new_yolo/data/valid/images
+nc: 5
+names: ['back', 'breast', 'leg', 'neck', 'wing']
