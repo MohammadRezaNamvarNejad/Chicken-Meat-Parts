@@ -33,8 +33,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/chicken-parts-detection.git
-cd chicken-parts-detection
+git clone https://github.com/MohammadRezaNamvarNejad/Chicken-Meat-Parts
+cd Chicken-Meat-Parts
 Install required dependencies:
 
 bash
